@@ -1,0 +1,1 @@
+/Users/alextanhongpin/Documents/rust/rust-book/07-modules/communicator/target/debug/libcommunicator.rlib: /Users/alextanhongpin/Documents/rust/rust-book/07-modules/communicator/src/lib.rs /Users/alextanhongpin/Documents/rust/rust-book/07-modules/communicator/src/client.rs /Users/alextanhongpin/Documents/rust/rust-book/07-modules/communicator/src/network/mod.rs
